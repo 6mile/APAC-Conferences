@@ -28,6 +28,7 @@ Last Updated: 29-Mar-2025
 | June | 21/06/2025 | Remote | [ComfyCon](https://au.comfycon.rocks/) | Unknown |
 | July | 03/07/2025 | Sydney, NSW, Australia | [SydneySEC](https://aisasecuritydays.com.au/sydneysec) | ~600 |
 | July | 22/07/2025 - 23/07/2025 | Manila, Philippines | [PhilSecSummit](https://philsecsummit.com/) | ~500 |
+| July | 23/07/2025 - 25/07/2025 | Taipei, Taiwan | [HITCON Community](https://hitcon.org) | Unknown |
 | September | 25/09/2025 - 27/09/2025 | Canberra, ACT, Australia | [BSides Canberra](http://www.bsidesau.com.au/) | 3000 + volunteers and speakers |
 | August | 22/08/2025 | Adelaide, South Australia, Australia | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | 300 apx |
 | August | TBD | Brisbane, QLD, Australia | [Realms of Cyber/ROCCON](https://www.realmsofcyber.com/) | ~280 |
